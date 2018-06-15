@@ -2,7 +2,7 @@
 
 ```gherkin
 Feature: |CrM B2B| Structures
-Description: A registered user can manage and see their structures from the arenametrix website.
+Description: A loggedin user can manage and see their structures from the arenametrix website.
 
 Background: User is logged in and have some structures created.
   Given I am a logged in user
